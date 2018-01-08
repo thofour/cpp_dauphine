@@ -1,0 +1,11 @@
+
+
+namespace dauphine
+{
+	class polynomial {
+	
+		
+	
+};
+}
+
