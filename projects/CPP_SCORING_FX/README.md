@@ -1,4 +1,4 @@
-**A C++ scoring algorithm for ranking global currencies based on financial market sentiment**
+**A C++ scoring algorithm for ranking global currencies based on cross-currency risk reversal matrices**
 
 Master 203 C++ Project
 
